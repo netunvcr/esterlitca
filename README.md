@@ -1,5 +1,5 @@
 - # Sobre mim
 - :+1: Olá meu nome é Ester Litça
-- 👋 Meu email de contato é @ester.litca@escola.pr.gov.br
+- 👋 Meu email de contato é [email](@ester.litca@escola.pr.gov.br) 
 - 👀 Eu estou interessada em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
